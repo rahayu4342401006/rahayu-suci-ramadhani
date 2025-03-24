@@ -1,7 +1,7 @@
 # Hi, I am Rahayu Suci Ramadhani
 I am currently studying at the Batam State Polytechnic majoring in Informatics in the Software Engineering Technology Study Program.
 
-##🎓 Educational Background
+## 🎓 Educational Background
 - **📌 :** Politeknik Negeri Batam (2024 - Now)
 - **📌:** SMA Negeri 23 Batam (2021 - 2024)
 
